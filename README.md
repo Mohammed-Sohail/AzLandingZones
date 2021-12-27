@@ -1,4 +1,4 @@
-<h2>:rocket:**Follow as Per Instructions instruted in <h1>[LandingZones](https://github.com/Mohammed-Sohail/AzLandingZones/blob/master/LandingZones.md)</h1>**</h2>
+<h1>:rocket:**Follow as Per Instructions instruted in LandingZones](https://github.com/Mohammed-Sohail/AzLandingZones/blob/master/LandingZones.md)**</h1>
 
 [![landingzones](https://github.com/Azure/caf-terraform-landingzones/actions/workflows/landingzones-tf100.yml/badge.svg)](https://github.com/Azure/caf-terraform-landingzones/actions/workflows/landingzones-tf100.yml)
 

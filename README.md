@@ -1,3 +1,4 @@
+**Follow as Per Instructions instruted in **LandingZones.md** file**
 [![landingzones](https://github.com/Azure/caf-terraform-landingzones/actions/workflows/landingzones-tf100.yml/badge.svg)](https://github.com/Azure/caf-terraform-landingzones/actions/workflows/landingzones-tf100.yml)
 
 [![Gitter](https://badges.gitter.im/aztfmod/community.svg)](https://gitter.im/aztfmod/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)

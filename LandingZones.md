@@ -2,7 +2,7 @@
 <p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://github.com/Azure/caf-terraform-landingzones.git">AZLandingZones</a>(“Use This Repo”)</p>
 <ol>
 <li class="has-line-data" data-line-start="4" data-line-end="5">Download &amp; Install Git bash</li>
-<li class="has-line-data" data-line-start="5" data-line-end="6">Clone Git hub repo in local system (git clone <a href="https://github.com/Azure/caf-terraform-landingzones.git">https://github.com/Azure/caf-terraform-landingzones.git</a>) using cmd or git cli</li>
+<li class="has-line-data" data-line-start="5" data-line-end="6">Clone Git hub repo in local system (git clone <a href="https://github.com/Mohammed-Sohail/AzLandingZones.git">https://github.com/Mohammed-Sohail/AzLandingZones.git</a>) using cmd or git cli</li>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Download &amp; Install vs code</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Open cloned Repository in vs code</li>
 <li class="has-line-data" data-line-start="8" data-line-end="9">Install Remote Development Extension in vs code</li>
